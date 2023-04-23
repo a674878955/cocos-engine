@@ -39,7 +39,7 @@ const REAL_KEYFRAME_VALUE_DEFAULT_FLAGS = (RealInterpolationMode.LINEAR << REAL_
  * @en View to a real frame value.
  * Note, the view may be invalidated due to keyframe change/add/remove.
  * @zh 实数帧值的视图。
- * 注意，该视图可能因关键帧的添加、改变、移除而失效。
+ * 注意， 
  */
 class RealKeyframeValue extends EditorExtendable {
     /**
